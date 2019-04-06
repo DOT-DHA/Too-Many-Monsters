@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Too Many Monsters/Character.cpp
+Main.h
+F:/Too Many Monsters/Main.h
+
+F:/Too Many Monsters/Character.hh
+Main.h
+F:/Too Many Monsters/Main.h
+
+F:/Too Many Monsters/Enemy.cpp
+Main.h
+F:/Too Many Monsters/Main.h
+
+F:/Too Many Monsters/Enemy.hh
+Main.h
+F:/Too Many Monsters/Main.h
+
+F:/Too Many Monsters/Main.h
+iostream
+-
+iomanip
+-
+string
+-
+time.h
+-
+windows.h
+-
+Character.hh
+F:/Too Many Monsters/Character.hh
+Enemy.hh
+F:/Too Many Monsters/Enemy.hh
+math.h
+-
+stdlib.h
+-
+conio.h
+-
+
+F:/Too Many Monsters/main.cpp
+main.h
+F:/Too Many Monsters/main.h
+
+F:/Too Many Monsters/main.h
+iostream
+-
+iomanip
+-
+string
+-
+time.h
+-
+windows.h
+-
+Character.hh
+F:/Too Many Monsters/Character.hh
+Enemy.hh
+F:/Too Many Monsters/Enemy.hh
+math.h
+-
+stdlib.h
+-
+conio.h
+-
+

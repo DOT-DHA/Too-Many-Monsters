@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1548914811 source:d:\documents\desktop\all desktop folders\codeblocks\too many monsters\character.cpp
+	"Main.h"
+
+1548896712 d:\documents\desktop\all desktop folders\codeblocks\too many monsters\character.hh
+	"Main.h"
+
+1548914471 d:\documents\desktop\all desktop folders\codeblocks\too many monsters\enemy.hh
+	"Main.h"
+
+1548914745 source:d:\documents\desktop\all desktop folders\codeblocks\too many monsters\enemy.cpp
+	"Main.h"
+
+1548913569 source:d:\documents\desktop\all desktop folders\codeblocks\too many monsters\main.cpp
+	"main.h"
+
+1544341498 d:\documents\desktop\all desktop folders\codeblocks\too many monsters\main.h
+	<iostream>
+	<iomanip>
+	<string>
+	<time.h>
+	<windows.h>
+	"Character.hh"
+	"Enemy.hh"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+
+1548898880 source:d:\too many monsters\character.cpp
+	"Main.h"
+
+1544337898 d:\too many monsters\main.h
+	<iostream>
+	<iomanip>
+	<string>
+	<time.h>
+	<windows.h>
+	"Character.hh"
+	"Enemy.hh"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+
+1548893112 d:\too many monsters\character.hh
+	"Main.h"
+
+1548898226 d:\too many monsters\enemy.hh
+	"Main.h"
+
+1548898462 source:d:\too many monsters\enemy.cpp
+	"Main.h"
+
+1548894660 source:d:\too many monsters\main.cpp
+	"main.h"
+
